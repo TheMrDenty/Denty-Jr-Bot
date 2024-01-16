@@ -1,0 +1,8 @@
+discord
+asyncio
+config
+praw
+os-sys
+socket
+requests
+jsonlib
